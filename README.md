@@ -6,7 +6,7 @@ https://t.me/AirdropFamilyIDN
 
 # How To Run Bot
 ```
-git clone https://github.com/AirDropFamilyIDN/SuperMeow.git
+git clone https://github.com/AirdropFamilyIDN-V2-0/SuperMeow.git
 ```
 ```
 cd SuperMeow
